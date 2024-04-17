@@ -1,1 +1,5 @@
 /target/
+/bin
+/.idea
+/pom.xml
+/README.md
