@@ -2,7 +2,8 @@ package edu.kis.vh.nursery;
 
 public class defaultCountingOutRhymer {
 
-    private int[] NUMBERS = new int[12];
+    public static int variable = 12;
+    private int[] NUMBERS = new int[variable];
 
     public int total = -1;
 
