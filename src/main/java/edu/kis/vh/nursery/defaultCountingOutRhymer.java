@@ -5,8 +5,13 @@ public class defaultCountingOutRhymer {
     public static final int variable = 12;
     private final int[] NUMBERS = new int[variable];
 
-    public int total = -1;
+    public int getTotal() {
+        return total;
+    }
+
+    private int total = -1;
     public static final int constant = -1;
+
 
     public void countIn(int in) {
         if (!isFull())
@@ -32,5 +37,4 @@ public class defaultCountingOutRhymer {
                             return constant;
                         return NUMBERS[total--];
                     }
-
 }
