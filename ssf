@@ -1,0 +1,73 @@
+[33mcommit 1c9d39b40b074704d43ea09cf777aca9efa5aa5d[m[33m ([m[1;36mHEAD -> [m[1;32mconstants[m[33m, [m[1;31morigin/constants[m[33m)[m
+Author: o245770 <245770@edu.p.lodz.pl>
+Date:   Thu May 9 11:18:17 2024 +0200
+
+    8. dodanie annotacji @Override
+
+[33mcommit 23b27b380f263992d972126c6271bae22027f04b[m
+Author: o245770 <245770@edu.p.lodz.pl>
+Date:   Thu May 9 11:15:23 2024 +0200
+
+    7. dodanie modyfikatora final do niemutowalnych atrybutów
+
+[33mcommit 5561acb964f31af664ba1ed39dd099d056613a16[m
+Author: o245770 <245770@edu.p.lodz.pl>
+Date:   Thu May 9 11:10:57 2024 +0200
+
+    6. zamiana literałów na stałe
+
+[33mcommit d2b0b6037a40bf2ae3b99d69cb4b5be3b2069dcc[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Magdalena Kulacz <245856@edu.p.lodz.pl>
+Date:   Wed Apr 17 22:06:29 2024 +0200
+
+    3. scalenie zmian z galezi format do galezi master
+
+[33mcommit 7b56907ce0def89db9b71e2af5606d7a1ec207f3[m
+Author: Magdalena Kulacz <245856@edu.p.lodz.pl>
+Date:   Wed Apr 17 21:35:28 2024 +0200
+
+    poprawa formatowania pliku HanoiRhymer.java v2
+
+[33mcommit c6d463ea4c7796f969893da13b98f71618e75773[m
+Author: Magdalena Kulacz <245856@edu.p.lodz.pl>
+Date:   Wed Apr 17 21:23:01 2024 +0200
+
+    2. poprawa formatowania pliku HanoiRhymer.java
+
+[33mcommit 65272bcb9879eb3efae73fb5ec365b3d5a4d86db[m
+Author: Magdalena Kulacz <245856@edu.p.lodz.pl>
+Date:   Wed Apr 17 21:20:59 2024 +0200
+
+    1. dodanie pliku .gitignore
+
+[33mcommit 0b833a6e75b34218aad83c47320b2b5c2298a09f[m
+Author: Magdalena Kulacz <245856@edu.p.lodz.pl>
+Date:   Wed Apr 17 21:16:10 2024 +0200
+
+    1. dodanie pliku .gitignore
+
+[33mcommit 0304ae5b0ea328b99fc48da95e147a4edbbb40a0[m
+Author: kowallus <kowallus@o2.pl>
+Date:   Thu Feb 23 13:23:03 2023 +0100
+
+    Update README.md
+    
+    Aktualizacja w związku z przeniesieniem treści zadania nr 1 na platformę wikamp
+
+[33mcommit 9b428d2ab2d59dbb82677b608ab6464a3a750829[m
+Author: kowallus <kowallus@o2.pl>
+Date:   Thu Feb 9 14:27:46 2023 +0100
+
+    zmiana konwencji formatowania (spacje zamiast tabulacji)
+
+[33mcommit 81cb2e56fa7b143aecf0ff5d2ce53e71fa4b446c[m
+Author: kowallus <kowallus@o2.pl>
+Date:   Tue Nov 12 10:58:39 2019 +0100
+
+    Poprawka README.md
+
+[33mcommit 19ebefe4174c74267bdd020244796fd41b414993[m
+Author: kowallus <kowallus@o2.pl>
+Date:   Tue Nov 12 10:55:42 2019 +0100
+
+    Initial commit
