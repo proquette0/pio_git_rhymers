@@ -2,7 +2,7 @@ package edu.kis.vh.nursery;
 /**
  * Podklasa klasy defaultCountingOutRhymer, która liczy wartości odrzucone
  */
-public class HanoiRhymer extends defaultCountingOutRhymer {
+public class HanoiRhymer extends DefaultCountingOutRhymer {
     /**
      * Atrybut liczący odrzucone wartości
      */
