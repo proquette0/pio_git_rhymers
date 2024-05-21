@@ -6,7 +6,7 @@ public class HanoiRhymer extends defaultCountingOutRhymer {
     /**
      * Atrybut liczący odrzucone wartości
      */
-	int totalRejected = 0;
+	private int totalRejected = 0;
     /**
      * metoda zwracająca ilość odrzuconych wartości
      * @return liczba odrzuconych wartości
