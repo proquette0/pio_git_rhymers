@@ -3,7 +3,7 @@ package edu.kis.vh.nursery;
 public class defaultCountingOutRhymer {
 
     public static final int variable = 12;
-    private int[] NUMBERS = new int[variable];
+    private final int[] NUMBERS = new int[variable];
 
     public int definedVariable = -1;
     public static final int constant = -1;
@@ -18,7 +18,7 @@ public class defaultCountingOutRhymer {
         }
         
             public boolean isFull() {
-                return definedVariable == 11;
+                return definedVariable == variable-1;
             }
         
                 protected int peekaboo() {
