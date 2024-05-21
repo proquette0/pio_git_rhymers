@@ -3,3 +3,7 @@
 /.idea
 /pom.xml
 /README.md
+/.classpath
+/.metadata/
+/.project
+/.settings/
